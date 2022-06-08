@@ -27,4 +27,4 @@ listBook5[3].before(listBook5[9]);
 listBook5[4].after(listBook5[2]);
 listBook5[7].after(listBook5[5]);
 
-listBook6[8].insertAdjacentHTML('beforeend', '<li>Глава 8: За пределами ES6</li>');
+listBook6[8].insertAdjacentHTML('afterend', '<li>Глава 8: За пределами ES6</li>');
